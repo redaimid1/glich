@@ -1,0 +1,57 @@
+{
+    "376393143": {
+        "vk_id": 376393143,
+        "nickname": "REDAIMID",
+        "balance": 251,
+        "clicked_balance": 346,
+        "won_balance": 0,
+        "transferred_amount": 0,
+        "total_balance": 346,
+        "start_date": "2025-02-26",
+        "clicks": 50
+    },
+    "882166725": {
+        "vk_id": 882166725,
+        "nickname": "KVD",
+        "balance": 23,
+        "clicked_balance": 13,
+        "won_balance": 0,
+        "transferred_amount": 0,
+        "total_balance": 13,
+        "start_date": "2025-02-26",
+        "clicks": 3
+    },
+    "349078027": {
+        "vk_id": 349078027,
+        "nickname": "Богдан'хех Чащин",
+        "balance": 0,
+        "clicked_balance": 217,
+        "won_balance": 0,
+        "transferred_amount": 0,
+        "total_balance": 217,
+        "start_date": "2025-02-26",
+        "clicks": 37
+    },
+    "548599233": {
+        "vk_id": 548599233,
+        "nickname": "ХУЙ",
+        "balance": 0,
+        "clicked_balance": 208,
+        "won_balance": 0,
+        "transferred_amount": 0,
+        "total_balance": 208,
+        "start_date": "2025-02-26",
+        "clicks": 24
+    },
+    "826764443": {
+        "vk_id": 826764443,
+        "nickname": "Рахимлевбля Смирновский",
+        "balance": 0,
+        "clicked_balance": 0,
+        "won_balance": 0,
+        "transferred_amount": 0,
+        "total_balance": 0,
+        "start_date": "2025-02-26",
+        "clicks": 1
+    }
+}
